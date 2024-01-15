@@ -1,6 +1,6 @@
 crossbow {
-  display:flex;
-  justify-content:flex-start;
+  display: flex;
+  justify-content: flex-start;
   align-items: flex-start;
   flex-wrap: wrap;
 }
@@ -8,5 +8,4 @@ crossbow {
 .target:nth-of-type(2) {
   align-self: flex-start;
   flex-grow: 1;
-  
 }
